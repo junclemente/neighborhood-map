@@ -1,4 +1,4 @@
-# Neighboorhood Map
+# Neighborhood Map
 ## Project for Front-End Web Development at Udacity.com
 
 This is the Neighborhood Map project. This project uses a variety of technologies learned throughout the Front-End Web Development (FEND) Nanodegree program at [Udacity.com](http://udacity.com "Udacity.com").
