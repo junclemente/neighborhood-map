@@ -1,26 +1,30 @@
-# Neighboorhood Map
-## Project for Front-End Web Development at Udacity.com
+# Neighborhood Map Application
 
-This is the Neighborhood Map project. This project uses a variety of technologies learned throughout the Front-End Web Development (FEND) Nanodegree program at [Udacity.com](http://udacity.com "Udacity.com").
+Interactive single-page map application built using JavaScript and the Google Maps API.  
+Originally developed as part of the Udacity Front-End Web Developer (FEND) Nanodegree program.
 
-### How To Use This Page
-A live version of this site can be found at [https://junclemente.github.io/neighborhood-map/](https://junclemente.github.io/neighborhood-map/ "FEND Neighborhood Map").
-You can also clone or download the repository and open the **index.html** file in your browser. 
+This project explores client-side MVVM architecture, third-party APIs, and responsive UI design through a neighborhood-based map interface.
+
+### Live Demo
+A live version of the site can be viewed here:  
+https://junclemente.github.io/neighborhood-map/
+
+You can also clone or download the repository and open **index.html** locally in a browser.
 
 ### Languages / Frameworks / Libraries / APIs
-- Bootstrap
-- CSS3
-- Dark Sky API
-- Google Maps Javascript API
+- JavaScript
 - HTML5
-- Javascript
+- CSS3
+- Bootstrap
 - jQuery
-- KnockoutJS MVVM
+- KnockoutJS (MVVM)
+- Google Maps JavaScript API
+- Dark Sky API
 - Yelp v2 API
 
 ### Resources
-- Bootstrap v3.3.7 [getBoostrap.com](http://getbootstrap.com "getBootstrap.com")
-- Google Maps Styling Wizard [Styling Wizard: Google Maps](https://mapstyle.withgoogle.com/ "Google Maps Styling Wizard")
-- Knockout.js [knockoutjs.com](http://knockoutjs.com "Knockout JS")
-- Weather Icons by Erik Flowers [Weather-icons] (http://erikflowers.github.io/weather-icons "Weather Icons")
-- Yelp OAuth JS by Mnemonicflow [Github.com](https://gist.github.com/mnemonicflow/1b90ef0d294c692d24458b8378054c81 "Mnemonicflow")
+- Bootstrap v3.3.7 — http://getbootstrap.com
+- Google Maps Styling Wizard — https://mapstyle.withgoogle.com/
+- Knockout.js — http://knockoutjs.com
+- Weather Icons by Erik Flowers — http://erikflowers.github.io/weather-icons
+- Yelp OAuth JS by Mnemonicflow — https://gist.github.com/mnemonicflow
